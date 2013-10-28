@@ -44,7 +44,7 @@ Vagrant.configure("2") do |config|
         vb.customize [
           "modifyvm", :id,
           "--memory", "1536",
-          "--cpus", "2",
+          "--cpus", "1",
           "--ioapic", "on"
           ]
 
