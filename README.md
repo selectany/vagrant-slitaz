@@ -4,7 +4,7 @@ Vagrant setup based on Slitaz Linux. Started from base cooking image 8Mb.
 Built against Virtual Box Guest Addins v4.3.
 
 ## Benefits
-The main one is the small vagrant's box size ~105Mb. Despite this the Slitaz guest OS is equipped with:
+The main one is the small vagrant's box size ~96Mb. Despite this the Slitaz guest OS is equipped with:
 Apache2.4, php-5.4.13, xdebug-2.2.3, perl-5.12.3, MySql-5.5.27, sqlite3, php-cli, git-1.8.3, composer-2013-10-21, 
 ngrok, phpMyAdmin-3.5.2, openssh-5.9
 
