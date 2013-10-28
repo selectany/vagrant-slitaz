@@ -31,16 +31,16 @@ After all you should be able to visit [http://localhost:8888](http://localhost:8
 
 PhpMyAdmin is accessable via: [http://localhost:8888/phpmyadmin](http://localhost:8888/phpmyadmin)
 
-Guesrt OS accounts:
-username: root
-passwd: root
+## Guest OS accounts:
+- username: root
+- passwd: root
 
-username: web
-passwd: web
+- username: web
+- passwd: web
 
-Mysql accounts:
-username: root
-passwd: root
+## Mysql accounts:
+- username: root
+- passwd: root
 
 
 ## Example Usage with Laravel PHP Framework
