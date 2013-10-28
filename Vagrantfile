@@ -40,8 +40,6 @@ Vagrant.configure("2") do |config|
     config.nfs.map_uid = :auto
     config.nfs.map_gid = :auto
 
-    config.package.name = 'package.box'
-
     config.vm.provider :virtualbox do |vb|
         vb.customize [
           "modifyvm", :id,
