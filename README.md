@@ -31,6 +31,18 @@ After all you should be able to visit [http://localhost:8888](http://localhost:8
 
 PhpMyAdmin is accessable via: [http://localhost:8888/phpmyadmin](http://localhost:8888/phpmyadmin)
 
+Guesrt OS accounts:
+- username: root
+- passwd: root
+
+- username: web
+- passwd: web
+
+Mysql accounts:
+- username: root
+- passwd: root
+
+
 ## Example Usage with Laravel PHP Framework
 After `vagrant up` and `vagrant ssh`, go to `/projects/www` directory.
 Then type following command to create Laravel based project named "test":
