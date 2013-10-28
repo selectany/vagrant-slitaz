@@ -33,7 +33,7 @@ After all you should be able to visit [http://localhost:8888](http://localhost:8
 After `vagrant up` and `vagrant ssh`, go to `/projects/www` directory.
 Then type following command to create Laravel based project named "test":
 `composer create-project laravel/laravel test --prefer-dist`
-The 'test' directory will appear under `/project/www`. Now you can load a project into you preffered IDE
+The 'test' directory will appear under `/project/www`. Now you can load the project into you preffered IDE
 using synched 'test' folder from the host side.
 
 Web app can be accessed by [http://localhost:8888/test/public](http://localhost:8888/test/public)
