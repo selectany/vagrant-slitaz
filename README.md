@@ -28,6 +28,7 @@ Installed php extensions:
 - Navigate to main directory (where Vagrantfile resides) with your terminal and run `vagrant up`.
 
 After all you should be able to visit [http://localhost:8888](http://localhost:8888)
+
 PhpMyAdmin is accessable via: [http://localhost:8888/phpmyadmin](http://localhost:8888/phpmyadmin)
 
 ## Example Usage with Laravel PHP Framework
