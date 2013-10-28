@@ -4,7 +4,7 @@ Vagrant setup based on Slitaz Linux. Started from base cooking image 8Mb.
 Built against Virtual Box Guest Addins v4.3.
 
 ## Benefits
-The main one is the small vagrant's box size ~105Mb. Despite this the Slitaz guest is equipped with:
+The main one is the small vagrant's box size ~105Mb. Despite this the Slitaz guest OS is equipped with:
 Apache2.4, php-5.4.13, xdebug-2.2.3, perl-5.12.3, MySql-5.5.27, sqlite3, php-cli, git-1.8.3, composer-2013-10-21, 
 ngrok, phpMyAdmin-3.5.2, openssh-5.9
 
@@ -29,7 +29,7 @@ Installed php extensions:
 
 After all you should be able to visit [http://localhost:8888](http://localhost:8888)
 
-## Example Usage with Laravel
+## Example Usage with Laravel PHP Framework
 After `vagrant up` and `vagrant ssh`, go to `/projects/www` directory.
 Then type following command to create Laravel based project named "test":
 `composer create-project laravel/laravel test --prefer-dist`
